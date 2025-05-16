@@ -120,8 +120,11 @@ streamlit run dashboard.py
 ✅ outputs colorized logs using colorama, improving readability:
 
 🟦 Info messages are cyan/blue
+
 🟨 Warnings are yellow/magenta
+
 🟥 Errors are red
+
 ✅ Summary messages show in green/blue
 
 ---
